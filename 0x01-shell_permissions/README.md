@@ -1,1 +1,1 @@
- a script that sets the permission to the file
+This is  a script that changes the group owner to school for the file hello
