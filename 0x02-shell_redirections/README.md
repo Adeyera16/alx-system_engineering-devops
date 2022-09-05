@@ -1,1 +1,1 @@
-This is a script that displays the third line of the file iacta
+This is a shell script that creates a file and a text in it
