@@ -1,1 +1,1 @@
-A command that finds all empty files and directories in the current directory and all sub-directories
+A gif is worth ten thousand words
